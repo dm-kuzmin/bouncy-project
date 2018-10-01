@@ -1,0 +1,18 @@
+.header__menu__name {
+    text-decoration-line: none;
+    color: rgba(255, 255, 255, 0.6);
+    padding: 0 15px;
+
+    font-family: "Open Sans";
+    font-size: 0.8em;
+
+    border-right: 1px solid rgb(255, 255, 255, 0.4);
+}
+
+.header__menu__name:first-child {
+    padding-left: 0;
+}
+
+.header__menu__name:last-child {
+    border-right: none;
+}

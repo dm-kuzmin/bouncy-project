@@ -1,0 +1,9 @@
+.header__hello__subtitle {
+    font-family: "Open Sans";
+    font-size: 0.7em;
+    font-stretch: condensed
+    font-variant-caps: normal;
+    letter-spacing: 0.1em;
+    
+    color: rgba(255, 255, 255, 0.6);
+}
